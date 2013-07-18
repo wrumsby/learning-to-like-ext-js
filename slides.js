@@ -30,6 +30,11 @@ var SLIDES = [
 	},
 
 	{
+		"image": "http://www.flickr.com/photos/96037254@N00/3265240051/in/photolist-5Yxd7g-5ZrGWA-62iLe2-663Bf4-66MQB8-6dgCFd-6gsd7y-6i3YSi-6wBUMJ-6y1wNS-6NgZA6-6TemEz-6Y4Hqd-71nRoG-74iR8e-7aLLok-7fs9SZ-7fzLkd-7mYrZo-7pBBay-7tTBdq-bF4rAY-88Pozy-ajuoB8-ddfc7f-cwnL7s-aSdLn8-dy2DY8-8Nh46q-7Pw8Hs-8MpkAg-bwpwbU-bdLbfX-bugPcX-a6SnYj-ca3FCj-bLDiDv-8SYaz9-ayXq6p-apbAL9-8BZumB-aeH1ad-atxKUQ-8EEDQM-bmppHn-e4NZ4i-aNAmdV-bP697V-9citxH-8D3rWg-dv3wYJ",
+		"notes": "idioms - confusing until you learn them"
+	},
+
+	{
 		"gist": "https://gist.github.com/wrumsby/6027918",
 		"notes": "Ext.define - extend, renderTo, listeners; config defauls; namespace"
 	},
