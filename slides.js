@@ -10,7 +10,7 @@ var SLIDES = [
 	},
 
 	{
-		"list": ["large set of controls", "capable custom event system", "extensive documentation", "builds on a set of core ideas", "ARIA roles", "layouts (maybe)", "lifecycle", "composability"],
+		"list": ["large set of controls", "capable custom event system", "extensive documentation", "builds on a set of core ideas", "ARIA roles", "data binding", "layouts", "lifecycle", "composability"],
 		"image": "http://www.flickr.com/photos/tracilawson/1312541390/"
 	},
 
